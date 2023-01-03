@@ -1,0 +1,6 @@
+
+springjdbc Database
+
+use springjdbc;
+
+select * from student_details;
